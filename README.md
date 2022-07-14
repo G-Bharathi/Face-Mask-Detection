@@ -1,6 +1,7 @@
 #  Face-Mask-Detection
 
-![fmd](https://user-images.githubusercontent.com/91404372/178974876-451eea54-9dd2-48c0-948e-897993787a88.png)
+![Untitled](https://user-images.githubusercontent.com/91404372/178975274-4ca628b3-91e9-4804-8bd1-22c1d06629c5.png)
+
 
 
 
